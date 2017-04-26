@@ -1,0 +1,39 @@
+﻿<div class="contact-form">
+    <form method="post">
+    <fieldset>
+        <legend>Contact</legend>
+        <div>
+            <label for="Name">Name:</label>
+            <input type="text" name="Name" value="" />
+        </div>
+        <div>
+            <label for="Phone">Phone:</label>
+            <input type="text" name="Phone" value="" />
+        </div>
+        <div>
+            <label for="Email">Email:</label>
+            <input type="text" name="Email" value="" />
+        </div>
+        <div>
+            <input type="submit" value="Save" class="submit" />
+        </div>
+    </fieldset>
+</form>
+</div>
+
+@{
+    if (IsPost) {
+        string name = Request.Index["name"];
+        string phone = Request.Index["phone"];
+        string email = Request.Index["email"];
+
+        <text>
+          You entered: <br />
+          Name: @name <br />
+          Phone: @phone <br />
+          Email: @email <br />
+        </text>
+    }
+}
+
+

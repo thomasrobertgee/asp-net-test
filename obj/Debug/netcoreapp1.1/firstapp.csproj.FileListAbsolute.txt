@@ -1,0 +1,8 @@
+/Users/Tom/Apps/firstapp/bin/Debug/netcoreapp1.1/firstapp.deps.json
+/Users/Tom/Apps/firstapp/bin/Debug/netcoreapp1.1/firstapp.runtimeconfig.json
+/Users/Tom/Apps/firstapp/bin/Debug/netcoreapp1.1/firstapp.runtimeconfig.dev.json
+/Users/Tom/Apps/firstapp/bin/Debug/netcoreapp1.1/firstapp.dll
+/Users/Tom/Apps/firstapp/bin/Debug/netcoreapp1.1/firstapp.pdb
+/Users/Tom/Apps/firstapp/obj/Debug/netcoreapp1.1/firstapp.AssemblyInfo.cs
+/Users/Tom/Apps/firstapp/obj/Debug/netcoreapp1.1/firstapp.dll
+/Users/Tom/Apps/firstapp/obj/Debug/netcoreapp1.1/firstapp.pdb
